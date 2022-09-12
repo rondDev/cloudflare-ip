@@ -1,0 +1,5 @@
+zone_id = "YOUR ZONE ID"
+bearer_token = "YOUR BEARER TOKEN"
+record_id = "YOUR RECORD ID"
+webhook_enabled = false
+webhook_url = ""
